@@ -1,7 +1,7 @@
 
 # BMI CALCULATOR
 
-The BMI CALCULATOR is used to calculate whether a person is overweight or not.
+A BMI (Body Mass Index) calculator is a simple tool that calculates an individual's BMI based on their height and weight. Tkinter is a popular Python library for creating graphical user interfaces, so we can use Tkinter to create a BMI calculator with a simple GUI.
 
 
 ## Tech Stack
@@ -11,9 +11,10 @@ The BMI CALCULATOR is used to calculate whether a person is overweight or not.
 
 ## Demo
 
-![205237 (1920×1080)](https://user-images.githubusercontent.com/97960335/187059004-fe404088-5b27-427c-999c-c91fa3f16504.gif)
+![DEMO](https://github.com/SnehasisSardar/Projects/assets/97939443/d93c158e-4631-4b16-896d-037c37e1cc51)
 
-## Authors
 
-- Created by [@Nirvik07](https://github.com/Nirvik07), HRSOC 2022 Participant
+## Author
+
+- Created by [@SnehasisSardar](https://github.com/SnehasisSardar)
 
