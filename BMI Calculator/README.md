@@ -11,10 +11,11 @@ A BMI (Body Mass Index) calculator is a simple tool that calculates an individua
 
 ## Demo
 
-![DEMO](https://github.com/SnehasisSardar/Projects/assets/97939443/d93c158e-4631-4b16-896d-037c37e1cc51)
+![DEMO](https://github.com/SnehasisSardar/Projects/assets/97939443/639cb790-b619-450e-b1e9-60ae38ee5ccb)
 
 
 ## Author
+
 
 - Created by [@SnehasisSardar](https://github.com/SnehasisSardar)
 
